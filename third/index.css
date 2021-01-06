@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+}
+.page {
+  width: 100%;
+  height: 100vh;
+  margin: auto 0;
+}
+.bar1 {
+  height: 100px;
+  background-color: lightgray;
+  padding: 25px;
+  box-sizing: border-box;
+}
+#square {
+  height: 50px;
+  width: 50px;
+  background-color: blue;
+}
+.bar2 {
+  height: 200px;
+  background-color: white;
+  padding: 20px;
+}
+p {
+  font-size: 25px;
+  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-align: left;
+  font-weight: lighter;
+}
+.bar3 {
+  height: 100px;
+  background-color: blue;
+}
+.bar4 {
+  height: 100px;
+  background-color: seagreen;
+}
+.bar5 {
+  height: 100px;
+  background-color: yellowgreen;
+}
+.bar6 {
+  height: 100px;
+  background-color: yellow;
+}

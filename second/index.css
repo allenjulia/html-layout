@@ -1,0 +1,78 @@
+body {
+  background-color: rgb(252, 252, 252);
+  margin: auto 0;
+}
+.solid-border {
+  display: block;
+  border-style: solid;
+  border: 5px solid black;
+  height: 25vh;
+  width: 95%;
+  margin: auto;
+  margin-bottom: 20px;
+  margin-top: 22px;
+  box-sizing: border-box;
+  padding: 5px;
+}
+#purple {
+background-color:rgb(140, 43, 226);
+display: inline-block;
+height: 70%;
+width: 3%;
+margin-right: 40px;
+}
+#green {
+background-color: green;
+display: inline-block;
+height: 90%;
+width: 25%;
+margin-right: 40px;
+}
+#blue {
+background-color: lightskyblue;
+display: inline-block;
+border-radius: 50%;
+width: 125px;
+height: 125px;
+}
+.dotted-border {
+  display: block;
+  border-style: dotted;
+  border: 5px dotted black;
+  height: 30vh;
+  width: 95%; 
+  margin: auto;
+  margin-bottom: 22px;
+  box-sizing: border-box;
+  padding: 2%;
+}
+#yellow-box {
+  border-style: hidden;
+  background-color: lemonchiffon;
+  height: 20vh;
+  width: 95%;
+  margin: auto;
+  box-shadow: 10px 10px 10px rgb(0, 0, 0);
+}
+.faint-border {
+  display: inline-block;
+  border: thin solid #ccc;
+  height: 30vh;
+  width: 50%;
+  border-style: groove;
+  box-shadow: 5px 5px 5px rgb(185, 182, 178);
+  margin-right: 25%;
+  margin-left: 25%;
+  margin-bottom: 22px;
+  box-sizing: border-box;
+  position: relative;
+}
+.text { 
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  text-align: center;
+  margin-top: 12vh;
+  color: rgb(31, 31, 109);
+  letter-spacing: 10px;
+}

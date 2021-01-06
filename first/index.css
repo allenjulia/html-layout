@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(189, 189, 189);
+  height: 100vh;
+  width: 100%;
+  margin: 0;
+}
+#gray-box {
+  background-color: rgb(70, 70, 70);
+  height: 20vh;
+  width: 100%;;
+}
+#white-box {
+  background-color: rgb(255, 255, 255);
+  height: 70vh;
+  width: 75%;
+  margin: auto;
+}
+#black-box{
+  background-color: black;
+  height: 10vh;
+  width: 75%;
+  margin: auto;
+}
