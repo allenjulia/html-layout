@@ -32,8 +32,8 @@ margin-right: 40px;
 background-color: lightskyblue;
 display: inline-block;
 border-radius: 50%;
-width: 125px;
-height: 125px;
+width: 130px;
+height: 130px;
 }
 .dotted-border {
   display: block;
@@ -48,7 +48,7 @@ height: 125px;
 }
 #yellow-box {
   border-style: hidden;
-  background-color: lemonchiffon;
+  background-color: rgb(255, 242, 123);
   height: 20vh;
   width: 95%;
   margin: auto;

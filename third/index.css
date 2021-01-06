@@ -15,7 +15,7 @@ body {
 #square {
   height: 50px;
   width: 50px;
-  background-color: blue;
+  background-color: #086972;
 }
 .bar2 {
   height: 200px;
@@ -30,17 +30,17 @@ p {
 }
 .bar3 {
   height: 100px;
-  background-color: blue;
+  background-color: #086972;
 }
 .bar4 {
   height: 100px;
-  background-color: seagreen;
+  background-color:#01a9b4;
 }
 .bar5 {
   height: 100px;
-  background-color: yellowgreen;
+  background-color: #87dfd6;
 }
 .bar6 {
   height: 100px;
-  background-color: yellow;
+  background-color: #fbfd8a;
 }
